@@ -1,0 +1,20 @@
+Algoritm xossalari nechta?
+Biror hayvon ijrochi bo`lishi mumkinmi?
+Informatikada Algoritmlarning ASOSIY ijrochisi nima?
+Algoritmdagi ko`rsatmalarni bajaruvchi obyekt qanday nom bilan ataladi?
+Algoritm orqali ...... boshqariladi.
+Ijrochining imkoniyatlari Algoritmni qaysi xossasida qaraladi?
+Cheklilik qaysi xossaga mos keladi?
+Ozgina tuz solinsin degan ko`rsatma qaysi xossada  noto`g`ri deb qaraladi?
+Algoritmlarning tasvirlash usullari nechta?
+A ni to`ldir; B ni bo`shat - shaklida boruvchi algoritmni tasvirlash usuli qaysi usul
+Algoritmlarni grafik shaklda tasvirlashning biz bilgan usuli?
+blok-sxema nimalardan tashkil topgan bo`ladi?
+Algoritmning kompyuter tushunadigan tilda yozilishi nima deb ataladi?
+Algoritmlarning asosiy turlari nechta?
+Ko`rsatmalar ketma-ket bajariladigan algoritm qanday algoritm?
+Ikki sonning EKUBini topish uchun qanday turdagi algoritmdan foydalanamiz?
+Takrorlanuvchi algoritmlarning yana bir nomi?
+Ko`rsatmalar takroriy bajariluvchi algoritmlar .... algoritmlar deb ataladi
+I:=I+1 bu ifoda biz o`qigan manbalarda qanday nomlangan edi?
+Ko`rsatmalar shartga muvofiq bajariladigan algoritm qanday alogritm turi?
